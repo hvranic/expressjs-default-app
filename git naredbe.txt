@@ -11,4 +11,4 @@ git push --set-upstream origin master
 nakon izmjene:
 git add --all
 git commit
-git push
+git push origin
