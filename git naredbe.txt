@@ -7,3 +7,8 @@ git log
 create github repo ( web )
 git remote add origin https://github.com/hvranic/expressjs-default-app.git
 git push --set-upstream origin master
+
+nakon izmjene:
+git add --all
+git commit
+git push
